@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648722515105",
+    "project_id": "dicodingstoryapp-9fe9b",
+    "storage_bucket": "dicodingstoryapp-9fe9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648722515105:android:0cbe6e14a5653a72a4dce0",
+        "android_client_info": {
+          "package_name": "com.example.dicodingstoryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIz-ljnGDVuSu5cqBT1qpfyqzfCe0iq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

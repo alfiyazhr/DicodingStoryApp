@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/light_style"
+        android:title="@string/light"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/dark_style"
+        android:title="@string/dark"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/coquette_style"
+        android:title="@string/coquette"
+        app:showAsAction="never" />
+</menu>

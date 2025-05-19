@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.DicodingStoryApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/darkBlue</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/lightBlue</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
