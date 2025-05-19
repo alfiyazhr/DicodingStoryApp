@@ -40,26 +40,33 @@ This application allows users to register, log in, view and share stories with o
 - ✅ Unit Testing
   - Core components are covered with unit tests to ensure functionality.
 
-## Screenshots
+## 📸 Screenshots
 
-- ![SignUp and Login Screen]
-  ![image](https://github.com/user-attachments/assets/d08f35fa-e2c1-4650-922a-88bac6afcb12)
-  ![image](https://github.com/user-attachments/assets/ac8bdd50-47dc-4755-b00b-d20fd198e032)
+### 🔐 SignUp and Login Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d08f35fa-e2c1-4650-922a-88bac6afcb12" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ac8bdd50-47dc-4755-b00b-d20fd198e032" width="45%" />
+</p>
 
-- ![Story List and Story Detail Screen]
-  ![image](https://github.com/user-attachments/assets/5b0978b4-847f-46e7-9050-1c2926aced00)
-  ![image](https://github.com/user-attachments/assets/e551aa0b-3a89-4d58-87fa-35d6e5d12222)
+### 📜 Story List and Story Detail Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b0978b4-847f-46e7-9050-1c2926aced00" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e551aa0b-3a89-4d58-87fa-35d6e5d12222" width="45%" />
+</p>
 
-- ![Add Story](ss_add_story.png)
-  ![image](https://github.com/user-attachments/assets/aafc3f3a-8656-430a-8705-63ebc543f1f9)
-  ![image](https://github.com/user-attachments/assets/391dbbe3-8b09-47a3-94fc-14dee9655409)
-  ![image](https://github.com/user-attachments/assets/43830d7f-0e02-4cba-a6b1-e454debad603)
+### ➕ Add Story Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aafc3f3a-8656-430a-8705-63ebc543f1f9" width="30%" />
+  <img src="https://github.com/user-attachments/assets/391dbbe3-8b09-47a3-94fc-14dee9655409" width="30%" />
+  <img src="https://github.com/user-attachments/assets/43830d7f-0e02-4cba-a6b1-e454debad603" width="30%" />
+</p>
 
-- ![Map Screen](ss_map.png)
-  ![image](https://github.com/user-attachments/assets/ff376a4b-34c8-4313-bbc2-4b8344543765)
-  ![image](https://github.com/user-attachments/assets/c8916f72-eff1-434d-89f8-9e58db583f05)
-  ![image](https://github.com/user-attachments/assets/223145b1-3154-44f6-b418-3523fbdb73ef)
-
+### 🗺️ Map Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff376a4b-34c8-4313-bbc2-4b8344543765" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c8916f72-eff1-434d-89f8-9e58db583f05" width="30%" />
+  <img src="https://github.com/user-attachments/assets/223145b1-3154-44f6-b418-3523fbdb73ef" width="30%" />
+</p>
 
 ## Tech Stack
 
