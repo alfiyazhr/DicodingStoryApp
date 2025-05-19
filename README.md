@@ -44,14 +44,14 @@ This application allows users to register, log in, view and share stories with o
 
 ### 🔐 SignUp and Login Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d08f35fa-e2c1-4650-922a-88bac6afcb12" width="35%" />
-  <img src="https://github.com/user-attachments/assets/ac8bdd50-47dc-4755-b00b-d20fd198e032" width="35%" />
+  <img src="https://github.com/user-attachments/assets/d08f35fa-e2c1-4650-922a-88bac6afcb12" width="25%" />
+  <img src="https://github.com/user-attachments/assets/ac8bdd50-47dc-4755-b00b-d20fd198e032" width="25%" />
 </p>
 
 ### 📜 Story List and Story Detail Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5b0978b4-847f-46e7-9050-1c2926aced00" width="35%" />
-  <img src="https://github.com/user-attachments/assets/e551aa0b-3a89-4d58-87fa-35d6e5d12222" width="35%" />
+  <img src="https://github.com/user-attachments/assets/5b0978b4-847f-46e7-9050-1c2926aced00" width="25%" />
+  <img src="https://github.com/user-attachments/assets/e551aa0b-3a89-4d58-87fa-35d6e5d12222" width="25%" />
 </p>
 
 ### ➕ Add Story Screen
